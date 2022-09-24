@@ -16,7 +16,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@v3.28
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.MECTRICS_TOKEN }}
           filename: github-metrics.svg
           config_timezone: Europe/Brussels
           base: base_indepth, header, activity, community, repositories, metadata
