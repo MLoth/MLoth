@@ -19,8 +19,8 @@ jobs:
           token: ${{ secrets.MECTRICS_TOKEN }}
           filename: github-metrics.svg
           config_timezone: Europe/Brussels
-          base: base_indepth, header, activity, community, repositories, metadata
-          plugin_isocalendar: yes
+          base: base_indepth, activity, metadata
+          plugin_isocalendar: no
           plugin_languages: yes
           plugin_habits: no
           plugin_habits_facts: no
