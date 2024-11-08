@@ -1,1 +1,3 @@
-👨🏻‍💻 Keep coding.
+👨🏼‍🎓 Teacher
+👨🏻‍💻 Freelance developer
+📷 Hobby photographer
